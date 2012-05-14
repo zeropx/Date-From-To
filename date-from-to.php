@@ -2,6 +2,9 @@
 
 /**
 * Date From-To display class
+  Far from complete, and old. Newer to github, but have been using it for a while. 
+  Refactor and redo.
+  
 */
 class Date_from_to
 {
