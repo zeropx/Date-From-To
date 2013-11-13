@@ -1,6 +1,10 @@
 Date From-To
 ============
 
+## Last update 11-12-2013
+
+*Updated* - nothing, just made a change to the readme file to show how to use git.
+
 Date from-to is supposed to be a simple class that allows you display a date in a From/To format. 
 
 What this means is by providing a start/end date, you can have an output such as:
